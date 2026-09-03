@@ -1,3 +1,13 @@
+> ## This code has moved
+>
+> `assurance-core` now lives in **[i-ops-hq/assurance](https://github.com/i-ops-hq/assurance)**, alongside the
+> rest of the family, at [`packages/core/`](https://github.com/i-ops-hq/assurance/tree/main/packages/core).
+>
+> **The PyPI package is unchanged** — `pip install assurance-core` installs the same thing from the same
+> project, and every released version stays exactly where it was. Only the repository moved.
+>
+> This repository is archived and kept read-only so existing links keep working.
+
 # assurance-core
 
 [![PyPI](https://img.shields.io/pypi/v/assurance-core)](https://pypi.org/project/assurance-core/)
